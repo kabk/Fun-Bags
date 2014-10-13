@@ -55,15 +55,6 @@ h1 {
     font-size: 34px;
 }
 
-.event {
-
+#country {
+    display: none;
 }
-
-.event.listening {
-}
-
-.event.received {
-
-}
-
-
